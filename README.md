@@ -10,7 +10,7 @@ This project presents a complete **Enterprise AI Supply Chain Architecture** —
 a real-world operational framework that transforms traditional supply chains  
 into **intelligent, adaptive, and autonomous systems** using AI, MLOps, and governance.  
 
-Unlike proof-of-concepts that often fail in deployment, this architecture is built for:  
+Unlike proofs-of-concept that often fail in deployment, this architecture is built for:  
 ✅ End-to-end automation  
 ✅ Real-time decision-making  
 ✅ Scalable multi-cloud deployment  
@@ -179,23 +179,11 @@ Every component communicates via event-driven microservices, ensuring horizontal
 ## 🎥 YouTube Series: Project Walkthrough
 
 This architecture was documented and demonstrated in the **AI Architecture YouTube Series** by Ganesh Prasad Bhandari.  
-- 🎬 Episode 1: *AI Health Coach Architecture*  
-- 🎬 Episode 2: *Supply Chain AI Architecture (This Project)*  
+- 🎬 Episode 1: *AI Health Coach Architecture* --> https://www.youtube.com/watch?v=xI3dF-FLsy8
+- 🎬 Episode 2: *Supply Chain AI Architecture (This Project)*  --> https://www.youtube.com/watch?v=689c0CfjpQI
 
 Each episode explores real-world AI deployment from concept to operations.
 
----
-
-## 📈 Campaign Timeline (Launch Plan)
-
-| Date | Platform | Type | Time (ET) |
-|------|-----------|------|-----------|
-| Jan 9 | YouTube + LinkedIn | Teaser Short | 7 PM |
-| Jan 13 | YouTube + LinkedIn | Main Video | 9 AM |
-| Jan 15–29 | YouTube + LinkedIn | Shorts Series | 7 PM |
-| Jan 24 | LinkedIn | Carousel Post | 9:30 AM |
-
----
 
 ## 🧾 References & Credits
 
@@ -204,7 +192,7 @@ Each episode explores real-world AI deployment from concept to operations.
   - [Eraser.io](https://eraser.io) for architecture diagram  
   - [NotebookLM](https://notebooklm.google.com) for outline collaboration  
   - [CapCut](https://www.capcut.com) for video editing  
-  - [YouTube](https://www.youtube.com) & [LinkedIn](https://www.linkedin.com) for public dissemination  
+  - [YouTube](https://www.youtube.com/@AIINOVATEHUB) & [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7422096079317422080/)) for public dissemination  
 
 > “Architecture concept adapted and expanded for open educational use by  
 > **Ganesh Prasad Bhandari (© 2026)** — for public learning and enterprise inspiration.”
@@ -212,7 +200,7 @@ Each episode explores real-world AI deployment from concept to operations.
 ---
 
 ## 🧭 Author
-
+**AI Vanguard**  
 **Ganesh Prasad Bhandari**  
 AI Solution Architect | Enterprise AI & GenAI Innovator  
 📍 Massachusetts, USA  
@@ -226,7 +214,6 @@ This project is released under the **Creative Commons Attribution-NonCommercial 
 You may use and adapt this content for educational or research purposes, but not for direct commercial resale.
 
 ---
-
 
 
 
@@ -245,18 +232,12 @@ This project is part of the **AI Enterprise Architecture Series** by
 
 ---
 
-### 🔗 LinkedIn Series (Professional Posts)
+### 🔗 LinkedIn Series 
 
-- [AI Health Coach Architecture — LinkedIn Post](YOUR_LINKEDIN_POST_URL_HERE)  
-  > Engaged professionals from healthcare AI, enterprise ML, and innovation leadership.  
-  > Shared by 100+ AI practitioners across global enterprises.
-
+- AI Health Coach Architecture — https://www.linkedin.com/feed/update/urn:li:activity:7422096079317422080/
+ 
 ---
 
-
-## 🌐 Author
-
-**AI Vanguard**  
 
 🌍 **Connect With Me:**  
 [🔗 LinkedIn](https://www.linkedin.com/in/ganesh-prasad-bhandari-b165b9187/) |  
@@ -265,7 +246,7 @@ This project is part of the **AI Enterprise Architecture Series** by
 [💻 GitHub](https://github.com/AIINOVATEHUB)
 
 
-© 2026 Ganesh Prasad Bhandari — All Rights Reserved.
+©2026 Ganesh Prasad Bhandari — All Rights Reserved.
 
 #AIArchitecture #AISupplyChain #EnterpriseAI #GenAI #MLOps #AIInnovation
 
